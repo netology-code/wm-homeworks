@@ -16,7 +16,7 @@
 2. Установить для пунктов списка первого уровня в качестве маркера - квадрат (■), а для пунктов списка второго уровня - пустой круг (○).
 
 ## Задача №5:
-1. Для фона цитаты установите картинку, которая находится по адресу: [https://netology-university.bitbucket.io/wm/resourses/images/wm-2-2-bg.jpg](https://netology-university.bitbucket.io/wm/resourses/images/wm-2-2-bg.jpg)
+1. Для фона цитаты установите картинку, которая находится по адресу: [https://netology-code.github.io/wm-homeworks/text/images/wm-2-2-bg.jpg](https://netology-code.github.io/wm-homeworks/text/images/wm-2-2-bg.jpg)
 2. Цвет текста цитаты установить в `#494429`
 3. Изменить начертание на курсивное и поменять семейство шрифта на *serif* (с засечками).
 
