@@ -10,9 +10,9 @@
 
 ## Задача №3
 1. Разметить текст в третьем теге `section` с заголовком *Источники и гейзеры Камчатки*. Названия гейзеров и источников сделать заголовком `h3`, описание абзацем. Перед описанием каждого гейзера вставить его фотографию:
-    * *Поселок малки* — [http://cdn02.mir.afisha.ru/imgs/2016/07/28/11/11818/32f4b0ce86c4b5c749c95ef413af81a657e43266.jpg](http://cdn02.mir.afisha.ru/imgs/2016/07/28/11/11818/32f4b0ce86c4b5c749c95ef413af81a657e43266.jpg)
-    * *Налычевская долина* — [http://cdn01.mir.afisha.ru/imgs/2016/07/28/12/11822/ed59309a072af4003bfe0e2757dc70bd7357000f.jpg](http://cdn01.mir.afisha.ru/imgs/2016/07/28/12/11822/ed59309a072af4003bfe0e2757dc70bd7357000f.jpg)
-    * *Паратунка* — [http://cdn00.mir.afisha.ru/imgs/2016/07/28/10/11816/5db7233de2cfc092cb00d0b6314aaeb275dc592e.jpg](http://cdn00.mir.afisha.ru/imgs/2016/07/28/10/11816/5db7233de2cfc092cb00d0b6314aaeb275dc592e.jpg)
+    * *Поселок малки* — [https://netology-code.github.io/wm-homeworks/img/malki.jpg](https://netology-code.github.io/wm-homeworks/img/malki.jpg)
+    * *Налычевская долина* — [https://netology-code.github.io/wm-homeworks/img/nalichevo.jpg](https://netology-code.github.io/wm-homeworks/img/nalichevo.jpg)
+    * *Паратунка* — [https://netology-code.github.io/wm-homeworks/img/paratunka.jpg](https://netology-code.github.io/wm-homeworks/img/paratunka.jpg)
 2. Добавьте название гейзера в качестве альтернативного текста для фотографии.
 
 ---
