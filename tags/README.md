@@ -3,7 +3,7 @@
 
 ## Задача №1
 1. Разметить текст в первом теге `section`. Предложение *Что такое нейросеть* сделать заголовком второго уровня. Под ним должно получиться два абзаца текста.
-2. Во втором абзаце в предложении *Недавно, например, нейросеть научилась писать песни в стиле Егора Летова* поставить ссылку на слове научилась на страницу [https://meduza.io/shapito/2016/06/28/neyronnaya-oborona-robot-napisal-teksty-pesen-pod-egora-letova](https://meduza.io/shapito/2016/06/28/neyronnaya-oborona-robot-napisal-teksty-pesen-pod-egora-letova)
+2. Во втором абзаце в предложении *Недавно, например, нейросеть научилась писать песни в стиле Егора Летова* поставить ссылку на слове научилась на страницу [https://www.sostav.ru/publication/nejroset-yandeksa-napisala-tekst-dlya-muzykalnogo-alboma-22860.html](https://www.sostav.ru/publication/nejroset-yandeksa-napisala-tekst-dlya-muzykalnogo-alboma-22860.html)
 
 ## Задача №2
 1. Исправить разметку во втором теге `section`, так, чтобы фраза *Дорога* стала заголовком второго уровня. После которого идет абзац текста, цитата с одним абзацем текста, и еще один абзац.
